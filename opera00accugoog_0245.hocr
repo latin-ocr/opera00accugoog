@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./opera00accugoog/opera00accugoog_0245.png"; bbox 0 0 1667 2592; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 94 878 1375 1174">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 94 878 1375 1174">
+     <span class='ocr_line' id='line_1_1' title="bbox 94 878 1375 978; baseline 0.006 -8"><span class='ocrx_word' id='word_1_1' title='bbox 94 882 190 970; x_wconf 85' lang='lat' dir='ltr'>P.</span> <span class='ocrx_word' id='word_1_2' title='bbox 242 878 694 974; x_wconf 77' lang='lat' dir='ltr'>OVIDH</span> <span class='ocrx_word' id='word_1_3' title='bbox 742 882 826 974; x_wconf 88' lang='lat' dir='ltr'>N</span> <span class='ocrx_word' id='word_1_4' title='bbox 863 882 1375 978; x_wconf 74' lang='lat' dir='ltr'>ASONIS</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 222 1090 1263 1174; baseline 0.007 -8"><span class='ocrx_word' id='word_1_5' title='bbox 222 1090 1263 1174; x_wconf 59' lang='lat' dir='ltr'><strong>METAh-JORPHOSEON</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 386 1278 1107 1338">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 386 1278 1107 1338">
+     <span class='ocr_line' id='line_1_3' title="bbox 386 1278 1107 1338; baseline 0.006 -4"><span class='ocrx_word' id='word_1_6' title='bbox 386 1278 646 1334; x_wconf 79' lang='lat' dir='ltr'>LIBER</span> <span class='ocrx_word' id='word_1_7' title='bbox 690 1278 1107 1338; x_wconf 34' lang='lat' dir='ltr'>HCTAVUS*</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
