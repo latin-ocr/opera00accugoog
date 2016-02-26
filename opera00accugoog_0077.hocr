@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./opera00accugoog/opera00accugoog_0077.png"; bbox 0 0 1667 2592; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 62 897 687 1191">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 62 897 687 1191">
+     <span class='ocr_line' id='line_1_1' title="bbox 62 897 687 1031; baseline 0.014 -44"><span class='ocrx_word' id='word_1_1' title='bbox 62 897 104 988; x_wconf 83' lang='lat' dir='ltr'>P.</span> <span class='ocrx_word' id='word_1_2' title='bbox 134 898 360 993; x_wconf 76' lang='lat' dir='ltr'>ovum</span> <span class='ocrx_word' id='word_1_3' title='bbox 385 898 687 1031; x_wconf 71' lang='lat' dir='ltr'>NAsoms</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 113 1109 634 1191; baseline 0.013 -7"><span class='ocrx_word' id='word_1_4' title='bbox 113 1109 634 1191; x_wconf 86' lang='lat' dir='ltr'><strong>METAMORPHOSEON</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 838 2592">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 838 2592">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 838 2592; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 0 0 838 2592; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
